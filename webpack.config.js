@@ -5,6 +5,7 @@ const enabledSourceMap = MODE === "development";
 
 module.exports = {
   mode: MODE,
+  watch: true,
   devtool: 'source-map',
   entry: ['@babel/polyfill', './src/js/main.js'],
   output: {
