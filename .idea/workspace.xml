@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6784e252-5ae8-47f4-8fac-911ea7f6b854" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/module/CommonUtil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579686083075</updated>
       <workItem from="1579686085903" duration="2363000" />
-      <workItem from="1579742537919" duration="812000" />
+      <workItem from="1579742537919" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1579686119160</created>
@@ -85,7 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579686119160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add : 確認用テストhtml追加&#10;Update : bundle.jsにscssを含められるよう修正">
+      <created>1579743521139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579743521139</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add : .gitignore, package-lock.json">
+      <created>1579743618023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579743618023</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update config(watchmode true)">
+      <created>1579743791690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579743791690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,12 +109,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="npm init" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm init" />
+    <MESSAGE value="Add : 確認用テストhtml追加&#10;Update : bundle.jsにscssを含められるよう修正" />
+    <MESSAGE value="Add : .gitignore, package-lock.json" />
+    <MESSAGE value="Update config(watchmode true)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update config(watchmode true)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="521" y="66" key="CommitChangelistDialog2" timestamp="1579686118688">
+    <state x="521" y="66" key="CommitChangelistDialog2" timestamp="1579743791524">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="521" y="66" key="CommitChangelistDialog2/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1579686118688" />
+    <state x="521" y="66" key="CommitChangelistDialog2/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1579743791524" />
+    <state x="632" y="291" key="Vcs.Push.Dialog.v2" timestamp="1579743793508">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="632" y="291" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1792.23.1792.1097@0.23.1920.1057" timestamp="1579743793508" />
   </component>
 </project>
