@@ -22,6 +22,12 @@ module.exports = {
         }
       },
       {
+        test: /\.ts$/,
+        use: {
+          loader: 'ts-loader'
+        }
+      },
+      {
         test: /\.scss$/,
         exclude: /node_modules/,
         loaders: ['style-loader', {
@@ -40,5 +46,8 @@ module.exports = {
         }],
       },
     ]
+  },
+  resolve: {
+    extensions: [".js",".ts"]
   }
 };
